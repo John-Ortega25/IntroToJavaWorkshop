@@ -14,7 +14,7 @@ public class FourSquare {
 			// 6. Change the color of the line the Tortoise draws to a random color 
 	
 			// 1. Call the drawSquare() method
-			
+			drawSquare();
 			// 7. Turn the tortoise 90 degrees to the right
 			
 	}

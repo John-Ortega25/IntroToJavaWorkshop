@@ -12,5 +12,7 @@ public static void main(String[] args) {
 	 	
 	}
 	JOptionPane.showMessageDialog(null, "you got " +numRight+ " right");	
+	String answer=JOptionPane.showInputDialog("who are you");
+	
 }
 }

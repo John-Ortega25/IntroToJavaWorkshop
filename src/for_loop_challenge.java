@@ -1,4 +1,4 @@
-
+.
 public class for_loop_challenge {
 	public static void main(String[] args) {
 		for (int num = 2; num < 12; num = num + 2) {
